@@ -1,0 +1,104 @@
+html{
+    background-color: black;
+}
+
+body{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.header img{
+    width: 75px;
+    height: auto;
+}
+
+#para2{
+    margin-top: 25px;
+}
+
+.header{
+    padding: 10px;
+    display: flex;
+    background-color: gray;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: auto;
+    font-size: x-large;
+}
+
+.navactive a{
+    color: aquamarine;
+}
+
+.content{
+    display: flex;
+}
+
+.desc{
+    padding: 20px;
+    font-family: sans-serif;
+    text-align: justify;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 700px;
+    height: auto;
+    line-height: 1.5;
+    text-indent: 50px;
+    font-size: large;
+}
+
+.addinfo{
+    display: flex;
+    font-size: large;
+    font-family: sans-serif;
+    padding: 20px;
+    text-align: justify;
+    width: 1440px;
+    height: auto;
+    margin-left: 20px;
+}
+
+.content img{
+    width: 700px;
+    margin-top: 20px;
+    margin-left: 30px;
+    height: auto;
+    background-color: aqua;
+}
+
+#rtitle{
+    display: flex;
+}
+
+#reference1{
+    margin-top: 25px;
+    display: flex;
+}
+
+#reference2{
+    margin-top: 25px;
+    display: flex;
+}
+
+#reference3{
+    margin-top: 25px;
+    display: flex;
+}
+
+#reference4{
+    margin-top: 25px;
+    display: flex;
+}
+
+#reference5{
+    margin-top: 25px;
+    display: flex;
+}
